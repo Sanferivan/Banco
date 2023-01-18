@@ -1,0 +1,58 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="191px" height="171px" viewBox="-0.5 -0.5 191 171" content="&lt;mxfile&gt;&lt;diagram id=&quot;yPquiD4KPmumRak7694e&quot; name=&quot;Page-1&quot;&gt;1VXBjtowEP2aSNsDEjgUdo8bYHcvrSpx6NmQSWLJsVPHhNCv7zgekwSW1apSkXoJ9ps3njf2MBPFq7J9NbwqvukUZMSmaRvF64ixryzGrwNOHljGcw/kRqQemvXAVvwGAqeEHkQK9YhotZZWVGNwr5WCvR1h3Bh9HNMyLcdRK57DFbDdc3mN/hSpLTz6yJY9/gYiL0Lk2eLJW0oeyJRJXfBUHwdQvInildHa+lXZrkC6uwv34v1ebljPwgwo+xkH5h0aLg+UW8QWEl2TyqmzJ0p58evgJCUlN7lQUfyM1mnV4hfBLjGHT6yuvG0+sFlo7YRLkZPfHrWB6c/EVU6/XWQRgB9gaq14wDELcclFrLrECuOkh6IJUWa3A/5VqhIyO8j18uwJXbIjCHyLD/T+q/BKlzsDnrS1Rqg8RNyZIQ9S3guFvHuau4tthKucHf6LgSs08BL3idrV1f/w2hFzXKrXB3/ZXzy/0VgGV/f+nkPEVv4N3vG811N4XTXY713x3E7l7oI2WKUPn7kcNlLBGjBWYOt+9g1o3bWohNrR2kdPNLIy2TXiTGCDjJNMK0uDZ8Zo/8JLId3IegPZgDvV1Z8tpSOdYw+bL/VjpwHaAUTN+BV0CdackBKscxoMNBkfaXvsx8zsibBiOGKWBHIabfn56L7744IGQNj2g6azDaZ1vPkD&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="190" height="170" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 192px; height: 170px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 190px; height: 170px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <i>
+                                        Persona
+                                    </i>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    - id: int
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    - nombre: String
+                                    <br/>
+                                    - edad: integer
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    - vip:boolean
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + Persona(String): void
+                                    <br/>
+                                    + Persona(String, int): void
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + setNombre(String): void
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + setEdad(int): void
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Persona...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
